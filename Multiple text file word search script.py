@@ -1,6 +1,7 @@
 import os
 import re
 
+# Lista de codificaciones a probar (en orden de prioridad)
 codificaciones_txt = ['utf-8', 'latin-1', 'utf-16', 'cp1252']
 
 while True:
