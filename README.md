@@ -1,4 +1,4 @@
-# Multiple text file word replacer script
+# Batch text file word replacer script
 -
 
 <p align="left">
