@@ -6,6 +6,7 @@ codificaciones_txt = ['utf-8', 'latin-1', 'utf-16', 'cp1252']
 
 while True:
     directorio = input("Enter directory: ")
+    
     if not os.path.isdir(directorio):
         print("Directory not found")
         
