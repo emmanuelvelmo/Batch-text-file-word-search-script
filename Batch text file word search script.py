@@ -16,6 +16,7 @@ while True:
         print("Wrong directory")
     
     palabra_val = input("Enter text to search: ")
+    
     print("------------------------------------")
     
     # Búsqueda insensible a mayúsculas/minúsculas:
